@@ -26,7 +26,7 @@ x = np.array([[0], [5]])
 gammaHat = np.array([[0], [0]])
 
 # Time Constants
-dt = 0.00001
+dt = 0.0001
 T = 50
 
 # Real System Parameters
